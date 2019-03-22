@@ -9,6 +9,7 @@ Below are the objectives:
 4) K-mean clustering using Tableau- R integration by invoking Rserve()
 
 Instructions to integrate R and Tableau:
+
 Please start the Rserve() from the R code file and then launch Tableau.
 Navigate in Tableau as stated below:
 Help menu ---> Settings and Performance ---> Manage External Connection
